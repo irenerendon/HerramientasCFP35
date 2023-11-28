@@ -1,0 +1,3 @@
+- fijar por defecto prestamos a 96 hs
+- estudiar posibilidad de mensajeria o emails con vencimientos
+	(https://gustavopeiretti.com/spring-boot-enviar-emails/)
